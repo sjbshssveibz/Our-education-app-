@@ -1,2 +1,2 @@
-# Our-education-app
-AI-based Educational App for All Levels
+# Our Education App
+A complete education system app for all levels.

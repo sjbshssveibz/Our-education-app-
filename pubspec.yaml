@@ -1,0 +1,4 @@
+name: our_education_app
+dependencies:
+  flutter:
+    sdk: flutter
